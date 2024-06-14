@@ -1,0 +1,23 @@
+{
+  "greeting": "hello",
+  "name": "徐燕",
+  "greetingText": "认识你是最幸运的事",
+  "wishText": "快乐永远陪伴着你 ;)",
+  "imagePath": "img/aaa.png",
+  "text1": "今天是你的生日!!! :D",
+  "textInChatBox": "祝你生日快乐...",
+  "sendButtonLabel": "发送",
+  "text2": "这样有点太普通了",
+  "text3": "我觉得",
+  "text4": "我需要做点别的",
+  "text4Adjective": "一个惊喜",
+  "text5Entry": "Because,",
+  "text5Content": "You are Special",
+  "smiley": ":)",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "wishHeading": "Happy Birthday!",
+  "outroText": "喜欢吗",
+  "replayText": "嘿嘿嘿",
+  "outroSmiley": ":)"
+}
